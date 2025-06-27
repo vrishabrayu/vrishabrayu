@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrishab Rayu</h1>
-<h2>MONGO_URI=mongodb+srv://vrishabrayu:iqlab%402025@nms1.3vmrs1q.mongodb.net/zabbix-license?retryWrites=true&w=majority&appName=NMS1
-HMAC_SECERET=123456
-</h2>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
